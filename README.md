@@ -2,6 +2,10 @@
 
 A production-quality AI-powered resume analyzer, ATS scorer, and career development planner built with Python, Streamlit, and Google Gemini AI.
 
+## Demo
+
+[![Watch the demo video](https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge)](./videos/Screen%20Recording%202026-06-18%20220638.mp4)
+
 ## Quickstart (Windows PowerShell)
 
 ```powershell
