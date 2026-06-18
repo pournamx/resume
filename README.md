@@ -4,7 +4,10 @@ A production-quality AI-powered resume analyzer, ATS scorer, and career developm
 
 ## Demo
 
-[![Watch the demo video](https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge)](./videos/Screen%20Recording%202026-06-18%20220638.mp4)
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/pournamx/resume/main/videos/Screen%20Recording%202026-06-18%20220638.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Quickstart (Windows PowerShell)
 
