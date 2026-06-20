@@ -2,12 +2,6 @@
 
 A production-quality AI-powered resume analyzer, ATS scorer, and career development planner built with Python, Streamlit, and Google Gemini AI.
 
-## Demo
-
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/pournamx/resume/main/videos/Screen%20Recording%202026-06-18%20220638.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Quickstart (Windows PowerShell)
 
